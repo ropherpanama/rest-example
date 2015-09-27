@@ -15,7 +15,7 @@ import org.joda.time.DateTime;
 import com.rest.security.Hashing;
 import com.rest.services.model.ApiMessage;
 import com.rest.services.model.Persona;
-import com.rest.test.Parser;
+import com.rest.util.Parser;
 
 @Path("")
 public class GeneralWebService {
